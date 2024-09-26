@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+}
+h2{
+    color: red;
+}
+h6{
+    background-color: green;
+}
+p,h4{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    
+}
+img{
+    width: 100px;
+    height: 80px;
+}
